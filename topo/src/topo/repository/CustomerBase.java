@@ -16,7 +16,7 @@ public class CustomerBase{
 
     
     public CustomerBase(){
-        this("C:\\Users\\lukemao\\workspace\\topo\\resources");
+        this("C:\\Users\\lukemao\\git\\ElectricSchemaDrawing\\topo\\resources");
     }
     
     public CustomerBase(String path){

@@ -15,7 +15,7 @@ public class LineBase{
     private final CsvAdapter lineAdapter;
     
     public LineBase(){
-        this("C:\\Users\\lukemao\\workspace\\topo\\resources");
+        this("C:\\Users\\lukemao\\git\\ElectricSchemaDrawing\\topo\\resources");
     }
     
     public LineBase(String path){

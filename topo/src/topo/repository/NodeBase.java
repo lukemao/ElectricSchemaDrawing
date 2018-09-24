@@ -11,7 +11,7 @@ public class NodeBase{
 
     
     public NodeBase(){
-        this("C:\\Users\\lukemao\\workspace\\topo\\resources");
+        this("C:\\Users\\lukemao\\git\\ElectricSchemaDrawing\\topo\\resources");
     }
     
     public NodeBase(String path){
